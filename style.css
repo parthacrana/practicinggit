@@ -1,0 +1,40 @@
+* {
+    font-family: cursive;
+    
+}
+
+main {
+    background-color: lightblue;
+
+}
+
+header {
+    background-color: red;
+}
+
+header .dmode {
+    position: absolute;
+    top: 8px;
+    right: 0;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.backbtn {
+    position: absolute;
+    top: 8px;
+    right: 120px;
+    background-color: green;
+    border-radius: 10px;
+
+}
+
+.darkmode {
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: white;
+    color: red;
+}
